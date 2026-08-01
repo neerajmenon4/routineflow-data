@@ -4,5 +4,17 @@
     "current": 2,
     "longest": 2
   },
-  "challenges": []
+  "challenges": [
+    {
+      "id": "701f6fa8-ece9-4c98-bedb-aa1e81658655",
+      "title": "30 day reading challenge",
+      "activity": "Read",
+      "durationDays": 30,
+      "startDate": "",
+      "from": "neerajmenon4",
+      "to": "22f2001193",
+      "status": "pending",
+      "completions": []
+    }
+  ]
 }
