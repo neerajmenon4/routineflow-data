@@ -32,11 +32,13 @@
       "title": "14-Day 5K Run",
       "activity": "5K Run",
       "durationDays": 14,
-      "startDate": "",
+      "startDate": "2026-08-01",
       "from": "neerajmenon4",
       "to": "22f2001193",
-      "status": "pending",
-      "completions": []
+      "status": "active",
+      "completions": [
+        "2026-08-01"
+      ]
     }
   ]
 }
