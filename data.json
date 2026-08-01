@@ -54,13 +54,15 @@
     {
       "id": "ab13cd22-0fb1-4220-9557-e7828d7c9d2a",
       "title": "30-Day Read",
-      "activity": "30-Day Read",
+      "activity": "Read",
       "durationDays": 30,
-      "startDate": "",
+      "startDate": "2026-08-01",
       "from": "22f2001193",
       "to": "neerajmenon4",
-      "status": "pending",
-      "completions": []
+      "status": "active",
+      "completions": [
+        "2026-08-01"
+      ]
     }
   ]
 }
