@@ -45,11 +45,13 @@
       "title": "30 day 3 litres challenge",
       "activity": "Drink Water",
       "durationDays": 30,
-      "startDate": "",
+      "startDate": "2026-08-01",
       "from": "neerajmenon4",
       "to": "22f2001193",
-      "status": "pending",
-      "completions": []
+      "status": "active",
+      "completions": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "ab13cd22-0fb1-4220-9557-e7828d7c9d2a",
