@@ -68,6 +68,17 @@
         "2026-08-01",
         "2026-08-04"
       ]
+    },
+    {
+      "id": "7926d1ec-fe9f-4815-943b-c91b29e628ab",
+      "title": "drink 1000 litres a day",
+      "activity": "drink 1000 litres a day",
+      "durationDays": 7,
+      "startDate": "",
+      "from": "22f2001193",
+      "to": "neerajmenon4",
+      "status": "pending",
+      "completions": []
     }
   ]
 }
